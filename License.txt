@@ -22,4 +22,4 @@ Prohibitions
 You do not have the rights to redistribute, resell, lease, license, sublicense or offer 
 files downloaded from Ninodezign.com to any third party or as a separate attachment 
 from any of your work. If you wish to promote our resources on your site, you must link back 
-to the resource page where users can find the download and not directly to the download file.
+to the resource page where users can find the download and not directly to the download files.
